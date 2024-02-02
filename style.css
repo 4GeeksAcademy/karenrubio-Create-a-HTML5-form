@@ -1,3 +1,21 @@
 .position-absolute{
-    top:28
+    top:29px;
+    left: -4px;
 }
+
+.payment{
+    padding: 8px ;
+    border-radius: 5px;
+}
+
+.bi{
+    font-size: 20px;
+}
+
+#input-disabled{
+    border: none;
+}
+
+
+
+
